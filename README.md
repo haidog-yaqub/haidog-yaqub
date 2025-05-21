@@ -9,12 +9,7 @@
 
 <hr>
 
-<a href="https://haidog-yaqub.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/MyPage-222?logo=githubpages&logoColor=white" alt="MyPage" height="25">
-</a> •  
-<a href="https://www.youtube.com/@higobeatz" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="YouTube" height="25">
-</a> •  
-<a href="https://space.bilibili.com/182484522" target="_blank">
-  <img src="https://img.shields.io/badge/Bilibili-blue?logo=bilibili&logoColor=white" alt="Bilibili" height="25">
-</a>
+[![MyPage](https://img.shields.io/badge/MyPage-Homepage-222?logo=githubpages&logoColor=white&style=flat-square)](https://haidog-yaqub.github.io)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@higobeatz)
+[![Bilibili](https://img.shields.io/badge/Bilibili-空间-00A1D6?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/182484522)
+
