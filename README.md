@@ -1,6 +1,6 @@
+![Logo](犬夜叉.gif)
 
-
-## About Me
+Hi, I am Jiarui Hai!
 
 🎓 I'm a PhD student at **Johns Hopkins University**, where I research **generative models for audio, speech, and music**.
 
