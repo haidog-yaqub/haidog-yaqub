@@ -7,6 +7,6 @@
 
 💬 Feel free to reach out if you're into **audio modeling**, **music generation**, or anything **sound-related**.
 
-[![Homepage](https://img.shields.io/badge/🎧 Jiarui-Homepage-222?logo=githubpages&logoColor=white&style=flat-square)](https://haidog-yaqub.github.io)
+[![Homepage](https://img.shields.io/badge/🎤 Jiarui-Hot%20Beatz🔥-222?logo=githubpages&logoColor=white&style=flat-square)](https://haidog-yaqub.github.io)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@higobeatz)
 [![Bilibili](https://img.shields.io/badge/Bilibili-Channel-00A1D6?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/182484522)
