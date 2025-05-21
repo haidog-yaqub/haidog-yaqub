@@ -1,13 +1,8 @@
-<table>
-  <tr>
-    <td>
-      <font size="6"><strong>Hi, I am Jiarui Hai!</strong></font>
-    </td>
-    <td align="right">
-      <img src="犬夜叉.gif" alt="Logo" width="120"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <font size="6"><strong>Hi, I am Jiarui Hai!</strong></font>
+  <img src="犬夜叉.gif" alt="Logo" width="120" style="vertical-align: middle;"/>
+</p>
+
 
 
 🎓 I'm a PhD student at **Johns Hopkins University**, where I research **generative models for audio, speech, and music**.
