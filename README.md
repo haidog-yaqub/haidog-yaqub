@@ -1,4 +1,4 @@
-<h2>Hi, I am Jiarui Hai!</h2>
+<h2>Hi, I'm Jiarui Hai!</h2>
 
 <img src="犬夜叉.gif" alt="Logo" width="120"/>
 
@@ -6,4 +6,10 @@
 
 🎹 Outside the lab, I'm a passionate **music producer**.
 
-💬 Feel free to reach out if you're into **audio modeling**, **music generation**, or anything **sound-related**.
+💬 I'm always up for a chat—whether it’s about **audio modeling**, **music generation**, or anything **sound-related**.
+
+<hr>
+
+🏠 Learn more about my **research and projects** on my [homepage](https://haidog-yaqub.github.io).
+
+🎵 Check out my music on [YouTube](https://www.youtube.com/@higobeatz) and [Bilibili](https://space.bilibili.com/182484522).
