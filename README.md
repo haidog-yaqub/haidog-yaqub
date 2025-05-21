@@ -1,8 +1,8 @@
-<p align="left">
-  <font size="6"><strong>Hi, I am Jiarui Hai!</strong></font>
-  <img src="犬夜叉.gif" alt="Logo" width="120" style="vertical-align: middle;"/>
-</p>
+<h1>Hi, I am Jiarui Hai!</h1>
+<hr>
 
+<img src="犬夜叉.gif" alt="Logo" width="80"/>
+<hr>
 
 
 🎓 I'm a PhD student at **Johns Hopkins University**, where I research **generative models for audio, speech, and music**.
