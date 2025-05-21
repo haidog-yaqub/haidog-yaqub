@@ -8,8 +8,7 @@
 
 💬 Feel free to reach out if you're into **audio modeling**, **music generation**, or anything **sound-related**.
 
-<p align="center">
-  <a href="https://haidog-yaqub.github.io"><img src="https://img.shields.io/badge/Homepage-000?logo=github&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.youtube.com/@higobeatz"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"></a>
-  <a href="https://space.bilibili.com/182484522"><img src="https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge"></a>
-</p>
+
+[![GitHub](https://img.shields.io/badge/-HomePage-000?logo=github&logoColor=white&style=for-the-badge)](https://haidog-yaqub.github.io)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@higobeatz)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?logo=bilibili&logoColor=white&style=for-the-badge)](https://space.bilibili.com/182484522)
