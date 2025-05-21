@@ -1,4 +1,4 @@
-# 🎧 Hi, I'm Jiarui Hai
+# 💎 Hi, I'm Jiarui Hai
 
 ## About Me
 
