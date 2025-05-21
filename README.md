@@ -8,4 +8,5 @@
 
 💬 Feel free to reach out if you're into **audio modeling**, **music generation**, or anything **sound-related**.
 
-🌐 Find me on [Homepage](https://haidog-yaqub.github.io), [YouTube](https://www.youtube.com/@higobeatz), and [Bilibili](https://space.bilibili.com/182484522).
+📺 [YouTube](https://www.youtube.com/@higobeatz) ｜ 🐟 [Bilibili](https://space.bilibili.com/182484522) ｜ 🏠 [Homepage](https://haidog-yaqub.github.io)
+
