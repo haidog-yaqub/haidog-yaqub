@@ -8,5 +8,4 @@
 
 💬 Feel free to reach out if you're into **audio modeling**, **music generation**, or anything **sound-related**.
 
-📺 [YouTube](https://www.youtube.com/@higobeatz) ｜ 🐟 [Bilibili](https://space.bilibili.com/182484522) ｜ Homepage: [![GitHub](https://img.shields.io/badge/-000?logo=github&logoColor=white&style=flat-square)](https://haidog-yaqub.github.io)
-
+[![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white&style=for-the-badge)](https://haidog-yaqub.github.io)
