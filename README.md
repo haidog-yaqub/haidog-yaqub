@@ -1,7 +1,7 @@
-<div align="left" style="display: flex; align-items: center;">
-  <img src="犬夜叉.gif" alt="Logo" width="120" style="margin-right: 20px;"/>
-  <h1 style="margin: 0;">Hi, I am Jiarui Hai!</h1>
-</div>
+<p align="left">
+  <img src="犬夜叉.gif" alt="Logo" width="120" style="vertical-align: middle;"/>
+  <font size="6"><strong>Hi, I am Jiarui Hai!</strong></font>
+</p>
 
 🎓 I'm a PhD student at **Johns Hopkins University**, where I research **generative models for audio, speech, and music**.
 
