@@ -9,4 +9,4 @@
 
 <hr>
 
-🌐 <a href="https://haidog-yaqub.github.io">Website</a> •  📺 <a href="https://www.youtube.com/@higobeatz">YouTube</a> •  📹 <a href="https://space.bilibili.com/182484522">Bilibili</a>
+🌐 <a href="https://haidog-yaqub.github.io">Personal Page</a> •  📺 <a href="https://www.youtube.com/@higobeatz">YouTube</a> •  📹 <a href="https://space.bilibili.com/182484522">Bilibili</a>
