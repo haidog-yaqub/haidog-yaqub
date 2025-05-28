@@ -13,3 +13,5 @@
 🏠 Learn more about my **research and projects** on my [homepage](https://haidog-yaqub.github.io).
 
 🎵 Check out my music on [YouTube](https://www.youtube.com/@higobeatz) and [Bilibili](https://space.bilibili.com/182484522).
+
+🎮 Try real-time demos of our latest models on [OpenSound Spaces](https://huggingface.co/OpenSound).
