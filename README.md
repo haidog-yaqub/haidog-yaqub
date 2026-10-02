@@ -15,3 +15,5 @@
 🎵 Check out my music on [YouTube](https://www.youtube.com/@higobeatz) and [Bilibili](https://space.bilibili.com/182484522).
 
 🎮 Try live demos of our latest models on [OpenSound Spaces](https://huggingface.co/OpenSound).
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haidog-yaqub&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en)](https://github.com/haidog-yaqub)
