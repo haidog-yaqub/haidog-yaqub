@@ -4,9 +4,9 @@
 
 I'm a PhD student at **Johns Hopkins University**, researching **generative models for audio, speech, and music**.
 
-⭐ My open-source projects have received ![GitHub stars](https://img.shields.io/github/stars/haidog-yaqub?affiliations=OWNER&label=&style=flat) stars on GitHub.
-
 🏠 Explore my research and projects on my [homepage](https://haidog-yaqub.github.io).
+
+⭐ My open-source work has received ![GitHub stars](https://img.shields.io/github/stars/haidog-yaqub?affiliations=OWNER&label=Stars&style=flat) on GitHub.
 
 🎮 Try live demos of our latest models on [OpenSound Spaces](https://huggingface.co/OpenSound).
 
