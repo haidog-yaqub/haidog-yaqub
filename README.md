@@ -18,4 +18,4 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haidog-yaqub)
+![GitHub User's stars](https://img.shields.io/github/stars/haidog-yaqub?affiliations=OWNER&style=flat&label=Stars)
