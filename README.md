@@ -8,8 +8,6 @@
 
 🎹 Outside the lab, I'm a passionate **music producer**.
 
-💬 I'm always up for a chat—whether it’s about **audio modeling**, **music generation**, or anything **sound-related**.
-
 ---
 
 🏠 Learn more about my **research and projects** on my [homepage](https://haidog-yaqub.github.io).
