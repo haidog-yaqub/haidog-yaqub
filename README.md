@@ -1,6 +1,7 @@
 <h2>💎 Hi, I'm Jiarui Hai!</h2>
 
-![Stars](https://img.shields.io/github/stars/haidog-yaqub?affiliations=OWNER&label=Stars&style=flat) 
+![Stars](https://img.shields.io/github/stars/haidog-yaqub?affiliations=OWNER&label=Stars&style=flat)
+
 <img src="犬夜叉.gif" alt="Logo" width="120"/>
 
 🎓 I'm a PhD student at **Johns Hopkins University**, where I research **generative models for audio, speech, and music**.
