@@ -16,4 +16,4 @@ Outside the lab, I'm a passionate **music producer**.
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haidog-yaqub&theme=transparent&show_icons=true&rank_icon=percentile)](https://github.com/haidog-yaqub)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haidog-yaqub&theme=transparent&show_icons=true&rank_icon=github)](https://github.com/haidog-yaqub)
