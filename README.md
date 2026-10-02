@@ -18,4 +18,4 @@
 
 ---
 
-![GitHub User's stars](https://img.shields.io/github/stars/haidog-yaqub?affiliations=OWNER&style=flat&label=Stars)
+![Stars](https://img.shields.io/github/stars/haidog-yaqub?affiliations=OWNER&label=Stars&style=flat)
