@@ -14,4 +14,6 @@ Outside the lab, I'm a passionate **music producer**.
 
 🎵 Listen to my music on [YouTube](https://www.youtube.com/@higobeatz) and [Bilibili](https://space.bilibili.com/182484522).
 
+---
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haidog-yaqub&theme=transparent&show_icons=true&rank_icon=percentile)](https://github.com/haidog-yaqub)
