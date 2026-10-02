@@ -16,4 +16,6 @@
 
 🎮 Try live demos of our latest models on [OpenSound Spaces](https://huggingface.co/OpenSound).
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haidog-yaqub&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en)](https://github.com/haidog-yaqub)
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haidog-yaqub&show_icons=true&theme=transparent)
